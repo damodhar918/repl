@@ -3,6 +3,7 @@
 A package for converting between imperial unit lengths and weights.
 
 This package was created for the [DataCamp](https://www.datacamp.com) course "Developing Python Packages".
+[impyrial](./workspace/mypackages/impyrial/)
 
 ### Features
 
