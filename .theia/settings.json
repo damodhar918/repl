@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.fontSize": 14,
+  "editor.fontSize": 14,
+  "editor.autoSave": "on",
+  "workspace.preserveWindow": true,
+  "editor.enablePreview": false,
+  "terminal.integrated.fontWeightBold": "400",
+  "editor.glyphMargin": false
+}

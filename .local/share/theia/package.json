@@ -1,0 +1,37 @@
+{
+  "private": true,
+  "dependencies": {
+    "@datacamp/theia-extension": "^2.1.2",
+    "@theia/callhierarchy": "^0.15.0",
+    "@theia/editor-preview": "^0.15.0",
+    "@theia/file-search": "^0.15.0",
+    "@theia/git": "^0.15.0",
+    "@theia/json": "^0.15.0",
+    "@theia/markers": "^0.15.0",
+    "@theia/merge-conflicts": "^0.15.0",
+    "@theia/messages": "^0.15.0",
+    "@theia/mini-browser": "^0.15.0",
+    "@theia/navigator": "^0.15.0",
+    "@theia/outline-view": "^0.15.0",
+    "@theia/preferences": "^0.15.0",
+    "@theia/preview": "^0.15.0",
+    "@theia/python": "^0.15.0",
+    "@theia/search-in-workspace": "^0.15.0",
+    "@theia/terminal": "^0.15.0",
+    "@theia/textmate-grammars": "^0.15.0",
+    "@theia/tslint": "^0.15.0",
+    "@theia/typescript": "^0.15.0",
+    "typescript": "^3.6.0"
+  },
+  "devDependencies": {
+    "@theia/cli": "^0.15.0"
+  },
+  "theiaPluginsDir": "plugins",
+  "theiaPlugins": {
+    "vscode-builtin-merge-conflicts": "https://github.com/theia-ide/vscode-builtin-extensions/releases/download/v1.39.1-prel/merge-conflict-1.39.1-prel.vsix",
+    "vscode-builtin-typescript": "https://github.com/theia-ide/vscode-builtin-extensions/releases/download/v1.39.1-prel/typescript-1.39.1-prel.vsix",
+    "vscode-builtin-python": "https://github.com/theia-ide/vscode-builtin-extensions/releases/download/v1.39.1-prel/python-1.39.1-prel.vsix",
+    "vscode-builtin-yaml": "https://github.com/theia-ide/vscode-builtin-extensions/releases/download/v1.39.1-prel/yaml-1.39.1-prel.vsix",
+    "vscode-builtin-sql": "https://github.com/theia-ide/vscode-builtin-extensions/releases/download/v1.39.1-prel/sql-1.39.1-prel.vsix"
+  }
+}
